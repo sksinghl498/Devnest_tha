@@ -1,5 +1,8 @@
 *{ margin: 0; padding: 0;}
 
+body{
+    background-color: rgb(133, 175, 175);
+}
 .main{
     margin: 10px 0px 10px 180px;
     display: grid;    
@@ -29,7 +32,7 @@
     display: inline-block;
     margin: 1% 20% 0% 20%;
     align-items: center;
-    border: 2px solid black;
+    border: 3px solid black;
 }
 .item2 h3{
     margin-left: 20px;
@@ -57,7 +60,9 @@
     margin-top: 20px;
 }
 .item4 p{
-    margin-left: 5px;
+    margin-left: 15px;
+    margin-top: 8px;
+    margin-right: 4px;
 }
 
 .edu-list{
@@ -83,7 +88,10 @@
     margin-top: 20px;
 }
 .item7 p{
-    margin-left: 10px;
+    margin-left: 15px;
+    margin-top: 12px;
+    margin-right: 5px;
+
 }
 .item7{
     background-color: lightskyblue;
