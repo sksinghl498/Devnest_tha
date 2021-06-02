@@ -4,25 +4,29 @@ body{
     background-color: rgb(133, 175, 175);
 }
 .main{
-    margin: 10px 0px 10px 180px;
+    margin: 70px 140px 70px 180px;
     display: grid;    
     grid-template-columns: repeat(2,600px);
     grid-template-rows: repeat(5,300px);
+    box-shadow: 3px 3px 9px 6px black;
 }
 .main hr{
     border: 1px solid black;
     width: 70%;
 }
 .item1{
-    background-color: aliceblue;
+    background-color: rgb(248, 150, 30);
 }
-.item1 h1 {
-    margin: 30px 100px 0px 80px;
+.item1 h3 {
+    margin: 11px 5px 0px 10px;
     font-style: italic;
     font-size: 80px;
+    text-shadow: 2px 1px #bd8e62;
 }
 .item1 p{
-    margin: 30px 100px 0px 80px;
+    margin: 30px 100px 0px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px;
 }
 
 .item2 .circle img{
