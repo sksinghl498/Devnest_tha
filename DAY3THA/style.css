@@ -1,0 +1,109 @@
+*{ margin: 0; padding: 0;}
+
+.main{
+    margin: 10px 0px 10px 180px;
+    display: grid;    
+    grid-template-columns: repeat(2,600px);
+    grid-template-rows: repeat(5,300px);
+}
+.main hr{
+    border: 1px solid black;
+    width: 70%;
+}
+.item1{
+    background-color: aliceblue;
+}
+.item1 h1 {
+    margin: 30px 100px 0px 80px;
+    font-style: italic;
+    font-size: 80px;
+}
+.item1 p{
+    margin: 30px 100px 0px 80px;
+}
+
+.item2 .circle img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 1% 20% 0% 20%;
+    align-items: center;
+    border: 2px solid black;
+}
+.item2 h3{
+    margin-left: 20px;
+}
+.item2{
+    background-color: rgb(120,120,120);
+}
+.item3{
+    background-color: rgb(120,120,120);
+}
+.item3 h1{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.contact-item{
+    margin-left: 15px;
+}
+.item4{
+    background-color: darkorange;
+    grid-column: 2/3;
+    grid-row: 2/4;
+}
+.item4 h1{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.item4 p{
+    margin-left: 5px;
+}
+
+.edu-list{
+    margin-left: 20px;
+}
+.item5{
+    background-color: rgb(120,120,120);
+}
+.item5 h1{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.item6{
+    background-color: rgb(120,120,120);
+}
+.item6 p{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.item6 h1{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.item7 p{
+    margin-left: 10px;
+}
+.item7{
+    background-color: lightskyblue;
+    grid-column: 2/3;
+    grid-row: 4/ -1;
+}
+.item7 h1{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.skill-list{
+    margin-left: 20px;
+}
+
+
+.item8{
+    background-color: rgb(120,120,120);
+}
+.item8 h1{
+    margin-left: 15px;
+    margin-top: 20px;
+}
