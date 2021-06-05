@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    position: absolute;
+    top: 6%;
+    left: 40%;
+}
+.circle{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border: 30px solid red;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.minute::before{
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 50%;
+    width: 10px;
+    height: 180px;
+    background-color: black;
+    transform-origin: top;
+    transform: rotate(50deg);
+}
+.hour::before{
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 50%;
+    width: 10px;
+    height: 180px;
+    background-color: black;
+    transform-origin: top;
+    transform: rotate(10deg);
+}
+
+.sec::before{
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 50%;
+    width: 10px;
+    height: 180px;
+    background-color: black;
+    transform-origin: top;
+    transform: rotate(-50deg);
+}
