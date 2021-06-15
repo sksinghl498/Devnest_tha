@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./images/brain-2062055_1280.jpg);
+}
+.container{
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    background-color: rgba(9, 240, 144, 0.315);
+    height: 560px;
+    width: 487px;
+    border-radius: 10px;
+    border: 4px solid black;
+    box-shadow: 8px 8px 6px 6px rgba(14, 5, 5, 0.849);
+
+}
+.calculator{
+    position: absolute;
+    top: 6%;
+    left: 11%;
+}
+
+.result{
+    font-size: 40px;
+    height: 65px;
+    width: 363px;
+    border-radius: 6px;
+    background-color: rgba(7, 201, 7, 0.99999);
+    /* font-family: 'digital-clock-font'; */
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 13px;
+    border: 3px solid black;
+    text-align: right;
+}
+
+button{
+    height: 62px;
+    font-size: 26px;
+    width: 87px;
+    border-radius: 14px;
+    margin: 3px 1px;
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 1px 1px black;
+}
+/* .btn_z{
+    width: 160px;
+} */
+
+.btn_E{
+    width: 170px;
+    background-color: rgba(241, 71, 9, 0.973);
+}
