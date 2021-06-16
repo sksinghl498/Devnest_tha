@@ -13,7 +13,7 @@ body{
     position: absolute;
     top: 15%;
     left: 60%;
-    background-color: rgba(9, 240, 144, 0.315);
+    background-color: rgba(9, 240, 144, 0.281);
     height: 560px;
     width: 487px;
     border-radius: 10px;
@@ -42,11 +42,21 @@ body{
 
 button{
     height: 62px;
-    font-size: 26px;
+    font-size: 29px;
     width: 87px;
     border-radius: 14px;
     margin: 3px 1px;
     background-color: black;
+    color: white;
+    box-shadow: 1px 1px 1px 1px black;
+}
+button:hover{
+    height: 62px;
+    font-size: 26px;
+    width: 87px;
+    border-radius: 14px;
+    margin: 3px 1px;
+    background-color: rgba(14, 5, 5, 0.849);
     color: white;
     box-shadow: 1px 1px 1px 1px black;
 }
@@ -56,5 +66,22 @@ button{
 
 .btn_E{
     width: 170px;
-    background-color: rgba(241, 71, 9, 0.973);
+    background-color: rgba(248, 106, 12, 0.993);
+}
+.btn_E:hover{
+    width: 170px;
+    background-color: rgba(248, 163, 6, 0.918);
+}
+.btn_C{
+    background-color: rgb(216, 14, 14);
+}
+.btn_C:hover{
+    background-color: rgb(160, 7, 7);
+}
+
+.btn_g{
+    background-color: rgb(150, 145, 145);
+}
+.btn_g:hover{
+    background-color: rgb(99, 95, 95);
 }
