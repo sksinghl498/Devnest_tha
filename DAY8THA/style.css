@@ -1,0 +1,30 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+table{
+    border-spacing: 0;
+}
+
+div{
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    transform: translate(-40px,-80px);
+}
+td{
+    height: 18px;
+    width: 18px;
+    background: #DE4738;
+    border: 1px solid #E24E3F;
+    cursor: pointer;
+}
+
+.chngcl{
+    /* height: 16px;
+    width: 16px; */
+    background: white;
+    border: 1px solid white;
+}
+
