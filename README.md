@@ -10,7 +10,17 @@ All Assingment of my devnest
 
  ![Screenshot (201)](https://user-images.githubusercontent.com/57589135/122446859-c292c080-cfc0-11eb-8539-c8e02a417ecc.png)
  
-3. Clock
+ 
+3> Resume 
+
+
+![Screenshot (220)](https://user-images.githubusercontent.com/57589135/122574048-df84cd80-d06c-11eb-9197-210646118bae.png)
+
+![Screenshot (221)](https://user-images.githubusercontent.com/57589135/122574081-e8759f00-d06c-11eb-96bd-b94e00d9b835.png)
+
+
+ 
+4. Clock
 ![Screenshot (207)](https://user-images.githubusercontent.com/57589135/122446916-d3433680-cfc0-11eb-88a4-a1c27a4063d6.png)
 
 4. All javaScript
