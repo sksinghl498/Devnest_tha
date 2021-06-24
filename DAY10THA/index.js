@@ -1,3 +1,5 @@
+
+// main java script file for game board 
 const val = document.querySelectorAll('.card');
 let eventoccur= false;
 let fc, sc;
