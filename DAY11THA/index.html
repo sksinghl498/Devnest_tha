@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title></title>
+</head>
+<body>
+    <div id="container">
+        <div class="questions">
+            <h2 id="question"></h2>
+            <ol type="A">
+                <li class="option"><span id="option1" onclick="calcscore(this)"></span></li>
+                <li class="option"><span id="option2" onclick="calcscore(this)"></span></li>
+                <li class="option"><span id="option3" onclick="calcscore(this)"></span></li>
+                <li class="option"><span id="option4" onclick="calcscore(this)"></span></li>
+            </ol>
+        </div>
+
+        <div class="buttons">
+            <button type="button" class="next">Next</button>
+        </div>
+    </div>
+
+    <div id="scoreboard">
+        <h2 id="score-title">Your Score</h2>
+        <h2 id="score">0</h2>
+        <button type="button" onclick="back()">Play again</button>
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
