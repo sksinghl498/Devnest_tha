@@ -6,15 +6,16 @@ body{
 .container{
    position: absolute;
    top: 18%;
-   left: 34%;
+   left: 12%;
    width: 380px;
    height: 450px;
    border: 2px solid black; 
    background: linear-gradient(45deg,#B2FEFA,#0ED2F7);
+   box-shadow: 2px 2px 3px 3px black;
 }
 .container img{
     width: 381px;
-    height: 270px;
+    height: 375px;
     margin: 0;
 }
 .container h1{
