@@ -22,3 +22,9 @@ var y= 0;
 function myScrollfun(){
     document.getElementById("demo1").innerHTML= y+=1;
 }
+
+
+function mychange(){
+    let z= document.getElementById("onchng").value;
+    document.getElementById("demo2").innerHTML= "You selected: "+z;
+}
