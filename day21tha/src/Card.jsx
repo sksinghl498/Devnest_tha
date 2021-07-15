@@ -8,7 +8,7 @@ export default function Card({title,index,dis,item,setItem,handleOnChange}){
       <div>
       {edit?
       (<div className="card">
-      <h1>{title}{dis}</h1>
+      <h1>{title} {dis}</h1>
       <button onClick={()=>{
         const newItem=item.filter((e,i)=>(
           i!==index

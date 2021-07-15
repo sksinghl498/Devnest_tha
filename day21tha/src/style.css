@@ -14,6 +14,8 @@ body{
     border-radius: 5px;
     padding-left: 1px;
     margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
 }
 .Addbtn{
     display: block;
@@ -23,17 +25,18 @@ body{
     height: 35px;
     border-radius: 6px;
     outline: none;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: 700;
     background-image: linear-gradient(67deg,#373b44,#4286f4);
 }
 .card{
     width: 300px;
     height: auto;
-    border: 1px solid black;
     margin: 40px 36rem;
     background-color: #eee;
     border-radius: 6px;
     padding: 30px;
+    box-shadow: 2px 2px 3px 3px black;
 }
 .card button{
     margin-left: 10px;
@@ -41,6 +44,8 @@ body{
     padding: 16px 24px;
     font-size: 1rem;
     outline: none;
+    font-size: 18px;
+    font-weight: 700;
 }
 .card button:nth-child(odd){
     background-image: linear-gradient(45deg,#11998e,#38ef7d);
