@@ -17,7 +17,7 @@ function App() {
     <h1>Meme Generator</h1>
     {meme=== null ?  (<Template templates={templates} setMeme={setMeme}/>):
     
-    (<Meme meme={meme}/>)}
+    (<Meme meme={meme}  setMeme={setMeme}/>)}
    
     </div>
   );
