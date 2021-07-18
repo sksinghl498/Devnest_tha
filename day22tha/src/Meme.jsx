@@ -8,7 +8,14 @@ const Meme = ({meme,setMeme})=>{
         boxes: [],
     });
     const generateMeme = ()=>{
-        console.log(form);
+        let url = `https://api.imgflip.com/caption_image?template_id=${form.template_id}&username=${form.username}&password=${form.password}`;
+        form.boxes.map((box,index)=>{
+            url += `&boxes[${index}][text]=${box.text}`;
+        });
+        fetch(url).then((res) => res.json())
+        .then(data => {
+            setMeme({...Meme,url: data.data.url});
+        })
     };
     return (
         <div className="meme">
