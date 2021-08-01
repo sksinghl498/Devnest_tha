@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import useFetch from './useFetch';
 
-function App() {
+const App = () => {
+  const { loading, error, data = [] } = useFetch(
+    'https://hn.algolia.com/api/v1/search?query=react'
+  );
+
+  if (error) return <p>Error!</p>;
+  if (loading) return <p>Loading...</p>;
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <ul>
+        {data?.hits?.map(item => (
+          <li key={item.objectID}>
+            <a href={item.url}>{item.title}</a>
+          </li>
+        ))}
+      </ul>
     </div>
   );
-}
+};
 
 export default App;
