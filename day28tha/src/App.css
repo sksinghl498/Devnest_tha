@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital@1&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
   position: relative;
   top: 5rem;
+  font-family: 'STIX Two Text', serif;
 }
 
 .form{
@@ -28,4 +35,39 @@
 }
 .weather{
   text-align: center;
+}
+
+
+.card img{
+  width: 30%;
+  margin-top: 20px;
+}
+.card .place{
+  font-size: 1.8rem;
+  font-weight: 500;
+  opacity: 0.8;
+  margin: 10px 0px;
+}
+.card .temp{
+  font-size: 4rem;
+  font-weight: 500;
+  margin-left: 30.39px;
+}
+.whp{
+  display: flex;
+  margin: 20px 0px;
+}
+.whp .title{
+  font-size: 0.8rem;
+}
+.whp .data{
+  font-size: 1.5rem; 
+  font-weight: 500;
+}
+.whp .data .unit{
+  font-size: 0.8rem;
+}
+.card .desc{
+  font-size: 0.8rem;
+  font-weight: 500;
 }

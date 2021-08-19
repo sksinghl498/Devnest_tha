@@ -24,10 +24,25 @@ function App() {
         <div className="offset-md-4 col-12 col-md-4 weather">
         <div className="card">
           {placeData.location? (<div>
-          <img src={placeData.current.condition.icon}/>
-          <h1>{placeData.location.name}</h1>
-          <h1>{placeData.location.region}</h1>
-          <h1>{placeData.location.country}</h1>
+          <img src={placeData.current.condition.icon} alt=""/>
+          <div className="temp">{placeData.current.temp_c}°</div>
+          <div className="desc">{placeData.current.condition.text}</div>
+          <div className="place">{placeData.location.name}</div>
+          <div className="whp">
+            <div className="col">
+            <div className="title">Wind now</div>
+            <div className="data">{placeData.current.wind_kph}<span className="unit">KM</span></div>
+            </div>
+            <div className="col">
+            <div className="title">Humidity</div>
+            <div className="data">{placeData.current.humidity}<span className="unit">%</span></div>
+            
+            </div>
+            <div className="col">
+            <div className="title">Precipitation</div>
+            <div className="data">{placeData.current.precip_in}<span className="unit">%</span></div>
+            </div>
+          </div>
           </div>):
           (<h2>Place not found</h2>)}
         </div>
