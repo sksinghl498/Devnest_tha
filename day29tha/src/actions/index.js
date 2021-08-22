@@ -18,4 +18,11 @@ const updatePlaceData=(place)=>{
     };
 };
 
-export {updatePlace,updatePlaceData};
+
+const toggleTheme=()=>{
+    return {
+        type: "TOGGLE_THEME",
+    };
+};
+
+export {updatePlace,updatePlaceData,toggleTheme};

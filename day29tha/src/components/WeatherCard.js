@@ -2,11 +2,12 @@ import { useSelector } from "react-redux";
 
 const WeatherCard=()=>{
     const placeData=useSelector((state)=> state.placeData);
+    const theme= useSelector((state)=> state.theme);
     return(
     <div className="container">
      <div className="row">
         <div className="offset-md-4 col-12 col-md-4 weather">
-        <div className="card">
+        <div className={theme? "card dark":"card"}>
           {placeData.location? (<div>
           <img src={placeData.current.condition.icon} alt=""/>
           <div className="temp">{placeData.current.temp_c}°</div>
