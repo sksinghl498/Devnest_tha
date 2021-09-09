@@ -10,6 +10,8 @@ All Assingment of my devnest
 
 2. Letter using HTML, CSS
 
+[Daytha2- letter_css](https://sksinghl498.github.io/Devnest_tha_frontend/DAY2THA/index.html)
+
  ![Screenshot (201)](https://user-images.githubusercontent.com/57589135/122446859-c292c080-cfc0-11eb-8539-c8e02a417ecc.png)
  
  
