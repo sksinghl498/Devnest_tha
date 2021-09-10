@@ -25,5 +25,8 @@ All Assingment of my devnest
 |-----|-----|
 
 
+|DAY16THA | [Daytha16-MemeCard&Chess](https://festive-thompson-a81d26.netlify.app/)
+|-----|-----|
+
 |DAY20THA | [Daytha20-CalorieReader](https://gallant-liskov-903995.netlify.app)
 |-----|-----|
