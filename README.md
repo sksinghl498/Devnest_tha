@@ -23,3 +23,7 @@ All Assingment of my devnest
 
 |DAY6THA |[Daytha6- Calculator](https://sksinghl498.github.io/Devnest_tha_frontend/DAY6THA_CALCULATOR/index.html)
 |-----|-----|
+
+
+|DAY20THA | [Daytha20-CalorieReader](https://gallant-liskov-903995.netlify.app)
+|-----|-----|
