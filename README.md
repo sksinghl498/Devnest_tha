@@ -25,6 +25,10 @@ All Assingment of my devnest
 |-----|-----|
 
 
+
+|DAY8THA |[Daytha8- 100DayCssChallenge](https://sksinghl498.github.io/Devnest_tha_frontend/DAY8THA/index.html)
+|-----|-----|
+
 |DAY16THA | [Daytha16-MemeCard&Chess](https://festive-thompson-a81d26.netlify.app/)
 |-----|-----|
 
