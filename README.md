@@ -38,6 +38,9 @@ All Assingment of my devnest
 |DAY11THA |[Daytha11- Quiz_Game](https://sksinghl498.github.io/Devnest_tha_frontend/DAY11THA/index.html)
 |-----|-----|
 
+|DAY12THA | [Daytha12- Todo_App](https://sksinghl498.github.io/Devnest_tha_frontend/DAY12THA/index.html)
+|-----|-----|
+
 |DAY16THA | [Daytha16-MemeCard&Chess](https://festive-thompson-a81d26.netlify.app/)
 |-----|-----|
 
