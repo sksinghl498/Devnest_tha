@@ -41,6 +41,12 @@ All Assingment of my devnest
 |DAY12THA | [Daytha12- Todo_App](https://sksinghl498.github.io/Devnest_tha_frontend/DAY12THA/index.html)
 |-----|-----|
 
+|DAY13THA | [Daytha13- Github-Api-fetch](https://github.com/sksinghl498/Devnest_tha_frontend/blob/master/Day13THA/index.html)
+|-----|-----|
+
+|DAY14THA | [Daytha14- Eventlisteners](https://sksinghl498.github.io/Devnest_tha_frontend/DAY14THA/index.html)
+|-----|-----|
+
 |DAY16THA | [Daytha16-MemeCard&Chess](https://festive-thompson-a81d26.netlify.app/)
 |-----|-----|
 
