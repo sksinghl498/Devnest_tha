@@ -23,3 +23,23 @@ All Assingment of my devnest
 
 |DAY6THA |[Daytha6- Calculator](https://sksinghl498.github.io/Devnest_tha_frontend/DAY6THA_CALCULATOR/index.html)
 |-----|-----|
+
+
+
+|DAY8THA |[Daytha8- 100DayCssChallenge](https://sksinghl498.github.io/Devnest_tha_frontend/DAY8THA/index.html)
+|-----|-----|
+
+|DAY9THA |[Daytha9- Booking-Website](https://sksinghl498.github.io/Devnest_tha_frontend/DAY9THA/index.html)
+|-----|-----|
+
+|DAY10THA |[Daytha10- Memory_Game](https://sksinghl498.github.io/Devnest_tha_frontend/DAY10THA/index.html)
+|-----|-----|
+
+|DAY16THA | [Daytha16-MemeCard&Chess](https://festive-thompson-a81d26.netlify.app/)
+|-----|-----|
+
+|DAY17THA | [Daytha17-Calorie Read Only](https://tender-brahmagupta-943e39.netlify.app/)
+|-----|-----|
+
+|DAY20THA | [Daytha20-CalorieReader](https://gallant-liskov-903995.netlify.app)
+|-----|-----|
