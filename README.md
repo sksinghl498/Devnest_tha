@@ -35,10 +35,28 @@ All Assingment of my devnest
 |DAY10THA |[Daytha10- Memory_Game](https://sksinghl498.github.io/Devnest_tha_frontend/DAY10THA/index.html)
 |-----|-----|
 
+|DAY11THA |[Daytha11- Quiz_Game](https://sksinghl498.github.io/Devnest_tha_frontend/DAY11THA/index.html)
+|-----|-----|
+
+|DAY12THA | [Daytha12- Todo_App](https://sksinghl498.github.io/Devnest_tha_frontend/DAY12THA/index.html)
+|-----|-----|
+
+|DAY13THA | [Daytha13- Github-Api-fetch](https://github.com/sksinghl498/Devnest_tha_frontend/blob/master/Day13THA/index.html)
+|-----|-----|
+
+|DAY14THA | [Daytha14- Eventlisteners](https://sksinghl498.github.io/Devnest_tha_frontend/DAY14THA/index.html)
+|-----|-----|
+
+|DAY15THA | [Daytha15- Hello-with-React](https://heuristic-cray-2a4730.netlify.app/)
+|-----|-----|
+
 |DAY16THA | [Daytha16-MemeCard&Chess](https://festive-thompson-a81d26.netlify.app/)
 |-----|-----|
 
 |DAY17THA | [Daytha17-Calorie Read Only](https://tender-brahmagupta-943e39.netlify.app/)
+|-----|-----|
+
+|DAY19THA | [Daytha19-Number_counter](https://epic-lalande-15e435.netlify.app/)
 |-----|-----|
 
 |DAY20THA | [Daytha20-CalorieReader](https://gallant-liskov-903995.netlify.app)
