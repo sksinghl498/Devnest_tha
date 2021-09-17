@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Devnest_tha_frontend/day18tha/public/index.html/static/css/main.19b70312.chunk.css",
-    "main.js": "/Devnest_tha_frontend/day18tha/public/index.html/static/js/main.16eca98a.chunk.js",
-    "main.js.map": "/Devnest_tha_frontend/day18tha/public/index.html/static/js/main.16eca98a.chunk.js.map",
-    "runtime-main.js": "/Devnest_tha_frontend/day18tha/public/index.html/static/js/runtime-main.5c6b354b.js",
-    "runtime-main.js.map": "/Devnest_tha_frontend/day18tha/public/index.html/static/js/runtime-main.5c6b354b.js.map",
-    "static/js/2.0d0be838.chunk.js": "/Devnest_tha_frontend/day18tha/public/index.html/static/js/2.0d0be838.chunk.js",
-    "static/js/2.0d0be838.chunk.js.map": "/Devnest_tha_frontend/day18tha/public/index.html/static/js/2.0d0be838.chunk.js.map",
-    "index.html": "/Devnest_tha_frontend/day18tha/public/index.html/index.html",
-    "static/css/main.19b70312.chunk.css.map": "/Devnest_tha_frontend/day18tha/public/index.html/static/css/main.19b70312.chunk.css.map",
-    "static/js/2.0d0be838.chunk.js.LICENSE.txt": "/Devnest_tha_frontend/day18tha/public/index.html/static/js/2.0d0be838.chunk.js.LICENSE.txt"
+    "main.css": "/Devnest_tha_frontend/day18tha/static/css/main.19b70312.chunk.css",
+    "main.js": "/Devnest_tha_frontend/day18tha/static/js/main.16eca98a.chunk.js",
+    "main.js.map": "/Devnest_tha_frontend/day18tha/static/js/main.16eca98a.chunk.js.map",
+    "runtime-main.js": "/Devnest_tha_frontend/day18tha/static/js/runtime-main.03a25f5d.js",
+    "runtime-main.js.map": "/Devnest_tha_frontend/day18tha/static/js/runtime-main.03a25f5d.js.map",
+    "static/js/2.0d0be838.chunk.js": "/Devnest_tha_frontend/day18tha/static/js/2.0d0be838.chunk.js",
+    "static/js/2.0d0be838.chunk.js.map": "/Devnest_tha_frontend/day18tha/static/js/2.0d0be838.chunk.js.map",
+    "index.html": "/Devnest_tha_frontend/day18tha/index.html",
+    "static/css/main.19b70312.chunk.css.map": "/Devnest_tha_frontend/day18tha/static/css/main.19b70312.chunk.css.map",
+    "static/js/2.0d0be838.chunk.js.LICENSE.txt": "/Devnest_tha_frontend/day18tha/static/js/2.0d0be838.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c6b354b.js",
+    "static/js/runtime-main.03a25f5d.js",
     "static/js/2.0d0be838.chunk.js",
     "static/css/main.19b70312.chunk.css",
     "static/js/main.16eca98a.chunk.js"
