@@ -61,3 +61,9 @@ All Assingment of my devnest
 
 |DAY20THA | [Daytha20-CalorieReader](https://gallant-liskov-903995.netlify.app)
 |-----|-----|
+
+|DAY21THA | [Daytha21-Todo_App_React](https://pedantic-keller-5892c8.netlify.app/)
+|-----|-----|
+
+|DAY22THA | [Daytha22-Meme_Generator](https://gifted-goodall-5c0a9b.netlify.app/)
+|-----|-----|
