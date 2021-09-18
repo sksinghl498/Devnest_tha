@@ -72,5 +72,5 @@ All Assingment of my devnest
 |-----|-----|
 
 
-|DAY24THA | [Daytha24-](https://stoic-murdock-809018.netlify.app/)
+|DAY24THA | [Daytha24-Router](https://stoic-murdock-809018.netlify.app/)
 |-----|-----|
