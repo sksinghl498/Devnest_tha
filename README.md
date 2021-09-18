@@ -67,3 +67,10 @@ All Assingment of my devnest
 
 |DAY22THA | [Daytha22-Meme_Generator](https://gifted-goodall-5c0a9b.netlify.app/)
 |-----|-----|
+
+|DAY23THA | [Daytha23-UseFetch](https://kind-goodall-2116ea.netlify.app/)
+|-----|-----|
+
+
+|DAY24THA | [Daytha24-](https://stoic-murdock-809018.netlify.app/)
+|-----|-----|
