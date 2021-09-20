@@ -77,3 +77,10 @@ All Assingment of my devnest
 
 |DAY25THA | [Daytha24-BootStrap](https://practical-bell-83bbf9.netlify.app/)
 |-----|-----|
+
+
+|DAY26THA | [Daytha26-Redux with form](https://mystifying-pare-5a6309.netlify.app/)
+|-----|-----|
+
+|DAY27THA | [Daytha27-Todo With redux](https://keen-thompson-f625c3.netlify.app/)
+|-----|-----|
