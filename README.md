@@ -84,3 +84,9 @@ All Assingment of my devnest
 
 |DAY27THA | [Daytha27-Todo With redux](https://keen-thompson-f625c3.netlify.app/)
 |-----|-----|
+
+|DAY28THA | [Daytha28- WeatherApi](https://zealous-goodall-a47d4d.netlify.app/)
+|-----|-----|
+
+|DAY29THA | [Daytha29- WeatherApiwithRedux](https://elated-jones-9eed75.netlify.app/)
+|-----|-----|
