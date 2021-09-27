@@ -90,3 +90,13 @@ All Assingment of my devnest
 
 |DAY29THA | [Daytha29- WeatherApiwithRedux](https://elated-jones-9eed75.netlify.app/)
 |-----|-----|
+
+
+|DAY30-31THA | [Daytha30-31- Ecommerce](https://gracious-clarke-66cfb8.netlify.app/)
+|-----|-----|
+
+|DAY33THA | [Daytha33- ToDo with typescript](https://loving-heyrovsky-491b08.netlify.app/)
+|-----|-----|
+
+|DAY34THA | [Daytha34-Todo typescript-redux](https://app.netlify.com/sites/eloquent-lalande-2d4404/overview)
+|-----|-----|
